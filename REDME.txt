@@ -1,0 +1,16 @@
+					Airline Ticket Reservation System
+					``````````````````````````````````
+1. project Folder Copy and paste in 'D' drive
+2. open CMD , import sql dmp file from project folder using 'imp' cammand
+3. Open ODBC Driver from CMD using this command "c:\Windows\SysWOW64\odbcad32"
+4. select oracle 10g , create DSN 
+5. set DSN name as 'mydsn' (or if your database is MS access then DSN name "airlinedsn")
+6. after creating, Double click on 'flyingbird.bat' or 
+7. compile 'javac flashscreen.java' in CMD
+8. User ID - 'Rupa'
+9. Password - 'rupa2016'
+10. Enjoy !! Hurry
+
+
+
+
